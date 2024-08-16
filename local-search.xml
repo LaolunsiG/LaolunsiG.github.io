@@ -21,9 +21,15 @@
     <link href="/2024/08/16/hexo-%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
     <url>/2024/08/16/hexo-%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="hexo-的文章编写和文章同步教程"><a href="#hexo-的文章编写和文章同步教程" class="headerlink" title="hexo 的文章编写和文章同步教程"></a>hexo 的文章编写和文章同步教程</h1><h2 id="hexo-常用指令"><a href="#hexo-常用指令" class="headerlink" title="hexo 常用指令"></a>hexo 常用指令</h2><p># 生成静态网页<br>该命令执行后在hexo站点根目录下生成public文件夹<br><code>hexo g</code> 或 <code>hexo generate</code></p><p># 删除<code>public</code>文件夹<br><code>hexo clean</code></p><p># 打开本地服务器<br>启动服务，默认地址为<a href="http://localhost:4000/%EF%BC%8C4000%E7%AB%AF%E5%8F%A3">http://localhost:4000/，4000端口</a><br><code>hexo s</code> 或 &#96;hexo server&#96;&#96;</p><p># 部署站点，在本地生成<code>.deploy_git</code>文件夹，并将编译后的文件上传至 GitHub<br><code>hexo d</code>或<code>hexo deploy</code></p><p># 上传到 Github</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs css">hexo <span class="hljs-selector-tag">g</span> -d<br></code></pre></td></tr></table></figure><h2 id="文章编写"><a href="#文章编写" class="headerlink" title="文章编写"></a>文章编写</h2><p># 创建一个新的文章</p><figure class="highlight actionscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs actionscript">hexo <span class="hljs-keyword">new</span> <span class="hljs-string">&quot;文章名字&quot;</span><br></code></pre></td></tr></table></figure><h2 id="参考的文章"><a href="#参考的文章" class="headerlink" title="参考的文章"></a>参考的文章</h2><p><a href="https://blog.csdn.net/vpqtxzmzezeqjj9977/article/details/122982320">Hexo的常用指令合集_hexo命令-CSDN博客</a></p><p>#教程 #指令</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+    </tags>
     
   </entry>
   
